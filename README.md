@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Myrs-19
 - 👀 I’m interested in programming(Web)
-- 🌱 I’m currently learning (Python)
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (Humans :) )
 - 📫 How to reach me no way
 
